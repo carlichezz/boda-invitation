@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Georgia', serif;
+  overflow-x: hidden;
+}
+
+.App {
+  text-align: center;
+}
+
+/* Scroll suave */
+html {
+  scroll-behavior: smooth;
+}
